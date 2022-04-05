@@ -11,7 +11,7 @@ Technology to use:
 	JDK 1.8+
 	
 URL:
-	localhost:8080
+	localhost:8080 - You can navigate through the different screens with the provided links.
 	
 Admin login:
 	Saved Settings: Generic H2 (Embedded)
