@@ -9,3 +9,5 @@ Technology to use:
 	Spring Boot
 	Maven 
 	JDK 1.8+
+User:admin
+Password:password
