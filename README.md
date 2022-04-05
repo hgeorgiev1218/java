@@ -9,3 +9,10 @@ Technology to use:
 	Spring Boot
 	Maven 
 	JDK 1.8+
+	
+URL:
+	localhost:8080
+	
+Admin login:
+	Username: admin
+	Password: password
